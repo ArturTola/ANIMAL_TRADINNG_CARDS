@@ -1,0 +1,62 @@
+body{
+
+}
+img{
+
+    width:100%;
+    border: 1px solid darkslategrey;
+}
+
+#container{
+    margin-right: auto;
+    margin-left: auto;
+    background-image: linear-gradient(180deg, gray 0%, white 80%);
+    border: solid 10px darkgrey;
+    min-height: 100%;
+    max-width: 400px;
+    box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);
+    border-radius: 4px;
+    padding: 10px 10px 10px 10px ;
+
+}
+
+#header{
+    margin:10px 10px 10px 10px;
+    color: black;
+
+}
+
+#card{
+    border: solid 1px gray;
+    padding: 10px 10px 10px 10px;
+margin:10px 10px 10px 10px;
+
+}
+
+#interesting-fact{
+font-style: italic;
+
+}
+
+.animal-info{
+}
+
+#facts li span{
+    font-style: normal;
+font-weight: bold;
+}
+
+#facts {
+  padding-left: 0;
+  }
+
+#facts li {
+
+
+    list-style-type: none;
+font-style: italic;
+}
+
+summary{
+
+}
